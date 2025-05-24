@@ -1,2 +1,2 @@
-# project-workcohol
-this is my git repository
+# project-workcohol social communication platform
+this is my git repository 
